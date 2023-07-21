@@ -7,6 +7,7 @@ To do:
  Videography
  - youtube embeding
 Streaming
+ - change background image
  - twitch embeding
  - content made
 Code
