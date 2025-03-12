@@ -1,4 +1,0 @@
-Photography (instagram alternative for viewing live photos)
-Videography (build page)
-Streaming (testpage, add chat)
-Code (Merge with projects, add Projects)
